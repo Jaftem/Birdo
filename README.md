@@ -7,4 +7,14 @@ Theme based off of the popular Monokai theme for Sublime Text.
 
 ## Installation
 
-Simply move the theme file into a directory in your packages folder (Sublime Text > Preferences > Packages)
+### Sublime Text 2
+[code]
+cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+git clone git://github.com/Jaftem/Birdo.git Birdo
+[/code]
+
+### Sublime Text 3
+[code]
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
+git clone git://github.com/Jaftem/Birdo.git Birdo
+[/code]
