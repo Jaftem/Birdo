@@ -3,7 +3,7 @@ Birdo
 
 Theme based off of the popular Monokai theme for Sublime Text.
 
-![Birdo Theme](/birdo/screenshot.png)
+![Birdo Theme](screenshot.png)
 
 ## Installation
 
